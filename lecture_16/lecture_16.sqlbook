@@ -41,7 +41,7 @@ Delete existing table
 -- If it doesn't exist nothing happens
 -- System commands are in upper case and user defined
 -- names are in lower case
--- Comments are written with double dashes "--" rather than hastag (#)
+-- Comments are written with double dashes "--" rather than hashtag (#)
 
 DROP TABLE IF EXISTS drivers;
 -- SQLBook: Markup
